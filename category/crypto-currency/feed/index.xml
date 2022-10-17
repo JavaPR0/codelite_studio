@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Crypto Currency | Codelite Studio</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>You dream it, we build it!</description>
+	<lastBuildDate>Wed, 12 Oct 2022 06:41:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2022/05/quote-dark.png</url>
+	<title>Crypto Currency | Codelite Studio</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>What is Bitcoin?</title>
+		<link>./../../../what-is-bitcoin/index.html</link>
+					<comments>./../../../what-is-bitcoin/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[meshach.solutions@gmail.com]]></dc:creator>
+		<pubDate>Wed, 12 Oct 2022 06:40:22 +0000</pubDate>
+				<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Crypto Currency]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=398</guid>
+
+					<description><![CDATA[What is Bitcoin? If you&#8217;ve been paying attention to the news lately, you&#8217;ve probably heard a lot about Bitcoin. But what is Bitcoin? And why is everyone so excited about it? Bitcoin is a cryptocurrency and a payment system, first proposed by an anonymous person or group of people under the name Satoshi Nakamoto in [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h2>What is Bitcoin?</h2>
+
+
+
+<p>If you&#8217;ve been paying attention to the news lately, you&#8217;ve probably heard a lot about Bitcoin. But what is Bitcoin? And why is everyone so excited about it?</p>
+
+
+
+<p>Bitcoin is a cryptocurrency and a payment system, first proposed by an anonymous person or group of people under the name Satoshi Nakamoto in 2008.</p>
+
+
+
+<p>Bitcoins are created as a reward for a process known as mining. They can be exchanged for other currencies, products, and services. As of February 2015, over 100,000 merchants and vendors accepted bitcoin as payment.</p>
+
+
+
+<p>Bitcoin is pseudonymous, meaning that funds are not tied to real-world entities but rather to bitcoin addresses. Owners of bitcoin addresses are not explicitly identified, but all transactions on the blockchain are public. In addition, transactions can be linked to individuals and companies through &#8220;idioms of use&#8221; (e.g., transactions that spend coins from multiple inputs indicate that the inputs may have a common owner) and corroborating public transaction data with known information on owners of certain addresses.</p>
+
+
+
+<h2>So why is Bitcoin so popular?</h2>
+
+
+
+<p>There are a few reasons. First, Bitcoin is decentralized, meaning there is no central authority controlling it. This is appealing to many people who are distrustful of governments and financial institutions.</p>
+
+
+
+<p>Second, Bitcoin is anonymous. Transactions are recorded in a public ledger, but the names of the buyers and sellers are not revealed. This makes it difficult for authorities to track down people using Bitcoin for illegal activities.</p>
+
+
+
+<p>Third, Bitcoin is global. It can be used to buy things online from anywhere in the world. There are no borders or restrictions.</p>
+
+
+
+<p>Fourth, Bitcoin is secure. Transactions are verified by network nodes through cryptography and recorded in a public dispersed ledger called a blockchain.</p>
+
+
+
+<p>Finally, Bitcoin is growing in popularity. More and more people are using it, and more and more businesses are accepting it as payment. This creates a positive feedback loop that is driving the growth of the currency.</p>
+
+
+
+<p>The future of Bitcoin is uncertain. But one thing is for sure: it has created a lot of buzz and excitement, and it is definitely something to keep an eye on.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../what-is-bitcoin/feed/index.html</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

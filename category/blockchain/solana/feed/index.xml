@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Solana | Codelite Studio</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
+	<description>You dream it, we build it!</description>
+	<lastBuildDate>Thu, 13 Oct 2022 12:56:41 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>./../../../../wp-content/uploads/2022/05/quote-dark.png</url>
+	<title>Solana | Codelite Studio</title>
+	<link>./../../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Deep Dive into all the Projects that Won The Top Prize in This Year&#8217;s Solana Hackathon</title>
+		<link>./../../../../deep-dive-into-all-the-projects-that-won-the-top-prize-in-this-years-solana-hackathon/index.html</link>
+					<comments>./../../../../deep-dive-into-all-the-projects-that-won-the-top-prize-in-this-years-solana-hackathon/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[meshach.solutions@gmail.com]]></dc:creator>
+		<pubDate>Thu, 13 Oct 2022 12:55:34 +0000</pubDate>
+				<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Solana]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=408</guid>
+
+					<description><![CDATA[INTRODUCTION Solana is a blockchain ecosystem that allows people to build various projects, like DeFi, Dapps, and DAOs. The Solana Foundation organizes Hackathons, a global competition where groups and teams come together to launch and showcase various projects that would bring about the mass adoption of blockchain technology around the world. The most recent hackathon [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h3>INTRODUCTION</h3>
+
+
+
+<p>Solana is a blockchain ecosystem that allows people to build various projects, like DeFi, Dapps, and DAOs. The Solana Foundation organizes Hackathons, a global competition where groups and teams come together to launch and showcase various projects that would bring about the mass adoption of blockchain technology around the world. The most recent hackathon is the SOLANA SUMMER CAMP, which had 18,000 participants and 750 projects submitted to the judges. The competition was divided into tracks and categories, and the projects that won top prizes in this year&#8217;s hackathon are described.</p>
+
+
+
+<h3><strong>Starting with the Grand Champion Category which was won by IronForge.</strong></h3>
+
+
+
+<p><img src="https://lh6.googleusercontent.com/cQSxCJdVYk5t2pixG139X6V04wxVKsdq83B691Nw4VVSHapXGR_z8Z4lhAXzu-aRtvw2wjPzV4y4StyPRf1y5Bxbmj9KSDN8IYiFDsagElE38L0J5Fi1muFvgsFDXxV_Jwr1x5vZuiIH8QMaHFowjLXmImLlOE6rAmsalRhrhTEQHm9ofwY" width="587" height="340.32831286964046"></p>
+
+
+
+<p>IronForge is a development platform that allows you to build and manage Web3 applications quickly and easily.</p>
+
+
+
+<p>The aim of this project is to make it easy for developers to create REST and GraphQL APIs for their programs that can be used to query account data and send signed transactions to the network. These APIs are referred to as the Accounts API and the Transactions API, respectively. The Accounts API makes it easy for frontend developers to create web3 apps, while the Transactions API is an overlay that handles errors and retries unsuccessful transactions.</p>
+
+
+
+<p>What this means is that you can use a single set of REST or GraphQL APIs to power your web, iOS, Android, and Saga applications. This can save you a lot of time and effort in developing and maintaining your applications.</p>
+
+
+
+<p>IronForge is a software that allows teams to work more efficiently and easily, so they can focus on creating great products. Listed Below are the several MVP features that make them distinctive and important to developers in the Solana ecosystem:</p>
+
+
+
+<ul><li>Solana&#8217;s MVP features include a basic GitHub connection. Simply attach the GitHub repository of your Solana program to receive automated deployments and Anchor. With each push, the Program Registry is published and you will be able to set each branch to deploy to a certain cluster.</li><li>Every commit in Meteor initiates the formation of an ephemeral cluster containing the program as specified in the commit, together with all of its dependencies. A URL is generated that allows you to engage with the program straight from the browser. This makes it simple to share and work with both technical and non-technical stakeholders.</li><li>The Ironforge platform provides clear logs and metrics for both your program and any autogenerated APIs, helping you to identify areas for improvement.</li></ul>
+
+
+
+<p>IronForge is currently in Beta Stage. You can get early access to their games by signing up on their website. They are constantly working on new features and updates, so it is advised to keep an eye on their social media for the latest news.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../../deep-dive-into-all-the-projects-that-won-the-top-prize-in-this-years-solana-hackathon/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Solana</title>
+		<link>./../../../../solana/index.html</link>
+					<comments>./../../../../solana/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[meshach.solutions@gmail.com]]></dc:creator>
+		<pubDate>Tue, 11 Oct 2022 16:16:53 +0000</pubDate>
+				<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Solana]]></category>
+		<guid isPermaLink="false">./../../../../index.html?p=331</guid>
+
+					<description><![CDATA[What is Solana? Solana is a high-performance blockchain platform that is open-source and permissionless. The platform is designed to scale to tens of thousands of transactions per second. Solana is built on a new consensus algorithm called Proof of History (PoH). PoH is a time-based consensus algorithm that is more energy efficient than Proof of [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h1>What is Solana?</h1>
+
+
+
+<p>Solana is a high-performance blockchain platform that is open-source and permissionless. The platform is designed to scale to tens of thousands of transactions per second.</p>
+
+
+
+<p>Solana is built on a new consensus algorithm called Proof of History (PoH). PoH is a time-based consensus algorithm that is more energy efficient than Proof of Work (PoW) and does not require miners.</p>
+
+
+
+<p>The native token of the Solana platform is SOL. SOL is used to pay transaction fees and is required to mint new tokens.</p>
+
+
+
+<p>The Solana platform is powered by a new type of hardware called the Validator. Validators are responsible for validating transactions and maintaining the blockchain.</p>
+
+
+
+<p>The Solana platform is designed to be developer friendly. The platform offers a variety of tools and services to help developers build decentralized applications (dApps).</p>
+
+
+
+<p><strong>What is Proof of History?</strong><br>Proof of History (PoH) is a time-based consensus algorithm that is more energy efficient than Proof of Work (PoW). PoH does not require miners, which makes it more environmentally friendly.</p>
+
+
+
+<p>PoH is a consensus algorithm that uses timestamps to order transactions. The algorithm is designed to be secure against malicious actors.</p>
+
+
+
+<p><strong>What is a Validator?</strong><br>A Validator is a type of hardware responsible for validating transactions and maintaining the blockchain. The Solana platform powers validators.</p>
+
+
+
+<p><strong>What is a decentralized application?</strong><br>A decentralized application (dApp) is an application that is built on a decentralized platform. Decentralized applications are typically built on blockchain technology.</p>
+
+
+
+<p><a href="https://solana.com/" target="_blank" rel="noreferrer noopener">Read more on Solana</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../../solana/feed/index.html</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
